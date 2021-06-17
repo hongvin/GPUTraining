@@ -1,0 +1,7 @@
+classes = 7
+train   = train.txt
+valid   = valid.txt
+test    = test.txt
+names   = obj.names
+backup  = backup
+eval    = coco
