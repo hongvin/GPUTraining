@@ -2,6 +2,6 @@ classes = 7
 train   = train.txt
 valid   = valid.txt
 test    = test.txt
-names   = obj.names
+names   = cfgs/obj.names
 backup  = backup
 eval    = coco
